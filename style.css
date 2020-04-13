@@ -1,0 +1,28 @@
+/* Sets a light gray background color */
+body {
+  background-color: green;
+  font-family: 'Roboto Mono', monospace;
+}
+
+/* Color for the header*/
+.headerColor {
+    color: green;
+}
+
+/* Set style for first input */
+.capitalize {
+  text-transform: uppercase;
+}
+
+/* Set style for second input */
+.lowerWithOtherFont {
+  text-transform: lowercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Set style for third input */
+.boldLargerColor {
+  font-weight: bold;
+  font-size: larger;
+  color: aqua;
+}
